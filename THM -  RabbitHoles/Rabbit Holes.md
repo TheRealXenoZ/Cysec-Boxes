@@ -37,7 +37,7 @@ This writeup consists of the way I went about with the given tasks, be mindful t
 * This flag requires you to use the "ls" command
 * This command displays ("**l**ist**s**") all the files in the current directory.
 * syntax : ls {location of the directory}
-* The 2^nd^ flag is the name of the folder you see after you type "ls".
+* The 2nd flag is the name of the folder you see after you type "ls".
 * user2 : user2{8c728e685ddde9f7fbbc452155######}
 
 ---
