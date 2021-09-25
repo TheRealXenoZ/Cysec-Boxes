@@ -1,6 +1,6 @@
 # Rabbit Holes
 
-### TryHackMe Box by CYSEC CLUB, GITAM
+### [TryHackMe Box](https://tryhackme.com/room/rabbitholes) by CYSEC CLUB, GITAM 
 
 This box is geared towards *beginners* who are interested in getting into the beautiful world of cybersecurity and pentesting.
 
